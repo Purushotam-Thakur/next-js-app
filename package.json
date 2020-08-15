@@ -1,7 +1,12 @@
 {
   "name": "next-app",
   "version": "0.1.0",
+  "author": "Purushotam Thakur",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Purushotam-Thakur/next-js-app.git"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",

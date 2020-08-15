@@ -32,3 +32,10 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# IntelliJ
+.idea
+*.iws
+*.iml
+*.ipr
+
